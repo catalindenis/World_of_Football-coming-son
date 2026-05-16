@@ -1,5 +1,5 @@
 # 🌍 World of Football
-
+<img width="943" height="549" alt="image" src="https://github.com/user-attachments/assets/cb8715e0-9d32-4881-90c0-a44b08990ca4" />
 World of Football is a football statistics web application built as a 
 bachelor's thesis project. It covers national team data across multiple 
 continents — Africa, South America, and North America (CONCACAF) — and 
@@ -27,5 +27,5 @@ and lineup information for each team.
 ## Author
 
 Baicu Denis Catalin — Faculty of Stiinte Exacte Aurel Vlaicu Arad, 2025–2026
-<img width="943" height="549" alt="image" src="https://github.com/user-attachments/assets/cb8715e0-9d32-4881-90c0-a44b08990ca4" />
+
 
